@@ -28,6 +28,12 @@ So we have a total of 4 routes
 4. Delete player http://localhost:8008/api/delete/:id. This deletes a player from the database based on the id passed as parameter in ":id"
 
 ## Example of API test on postman (images included)
+* ## Get User
+![get method](get_for_zuri.JPG)
 
+* ## Update User
+![put method](put_for_zuri.JPG)
 
+* ## Create User
+![post method](post_for_zuri.JPG)
 
