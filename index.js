@@ -19,7 +19,8 @@ const dbConnection = async() => {
     try{
     await mongoose.connect(process.env.MONGO_URI);
     console.log("Connected to DB successfully")
-    app.listen(8008)
+    app.listen(8008);
+    console.log("listening")
     }
     catch(error) {
         console.log(error)
