@@ -17,7 +17,7 @@ To launch your project, just type the following command : **node app.js**. Your 
 
 ## Step 4: Test the API endpoints
 
-This is an API that manages names of users in a adatabase. 
+This is an API that manages names of users in a database. 
 
 
 So we have a total of 4 routes
