@@ -26,3 +26,8 @@ So we have a total of 4 routes
 2. Find player by Id http://localhost:8008/api/user/:id. This returns a user based on the id passed as parameter in ":id"
 3. Update player http://localhost:8008/api/update_user/:id. This takes in the id of the user to update and modifies the data, while keeping the same id. It is different from creating a player. Creating a player will generate a new id, updating a player just modifies the data but keeps the same id.
 4. Delete player http://localhost:8008/api/delete/:id. This deletes a player from the database based on the id passed as parameter in ":id"
+
+## Example of API test on postman (images included)
+
+
+
